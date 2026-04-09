@@ -28,7 +28,7 @@ Increase revenue by:
 
 ## 4. User Segmentation
 
-Instead of segmenting by industry, we segment by **usage intensity and willingness to pay**:
+we segment by **usage intensity and willingness to pay**:
 
 ### A. Power Users (High frequency, high willingness)
 - Developers
@@ -179,8 +179,6 @@ Because workflow integration drives adoption faster and reduces friction.
 ### North Star Metric (NSM)
 
 **Number of production-ready prototypes created per team per month**
-
-→ Captures real value, not just usage
 
 ---
 
